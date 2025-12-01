@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Héctor Olivares</h1>
-<h3 align="center">I'm an Actuary with experience in data science, statistical analysis, and the development of technical solutions that enhance operational efficiency. I have designed interactive tools in Shiny and Power BI to support strategic decision-making and led impactful projects</h3>
+<h3 align="center">I'm an Actuary with experience in data science, statistical analysis, and the development of technical solutions that enhance operational efficiency. I have designed interactive tools such as Shiny, Power BI, d3js to support strategic decision-making and led impactful projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectoralfa&label=Profile%20views&color=0e75b6&style=flat" alt="hectoralfa" /> </p>
 
