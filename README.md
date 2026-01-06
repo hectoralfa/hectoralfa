@@ -19,7 +19,7 @@ Applied Machine Learning · Statistical Modeling · Geospatial Analytics · NLP
 
 ## 🧠 About Me
 
-I am a **Data Scientist with a strong foundation in Actuarial Science**, focused on **applied statistical modeling and machine learning** for real-world decision-making.
+I'm a **Data Scientist with a strong foundation in Actuarial Science**, focused on **applied statistical modeling and machine learning** for real-world decision-making.
 
 My work spans **public and private sectors**, where I design analytical solutions that combine:
 - statistical inference,
@@ -27,7 +27,7 @@ My work spans **public and private sectors**, where I design analytical solution
 - geospatial analysis,
 - and reproducible data pipelines.
 
-I am particularly interested in **bridging rigorous statistical methods with practical, interpretable machine learning applications**, both in operational and research-oriented contexts.
+I'm particularly interested in **bridging rigorous statistical methods with practical, interpretable machine learning applications**, both in operational and research-oriented contexts.
 
 ---
 
@@ -85,7 +85,7 @@ I am particularly interested in **bridging rigorous statistical methods with pra
 
 ## 🤝 Contact & Collaboration
 
-I am open to:
+I'm open to:
 - research-oriented collaborations,
 - applied data science projects,
 - and graduate-level academic opportunities.
