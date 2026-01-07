@@ -11,9 +11,6 @@ Applied Machine Learning · Statistical Modeling · Geospatial Analytics · NLP
 <a href="https://linkedin.com/in/hector-olivares-561278219">LinkedIn</a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hectoralfa&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
@@ -73,15 +70,7 @@ I'm particularly interested in **bridging rigorous statistical methods with prac
 - **NLP pipelines** for text classification and content analysis  
 - **Supervised land-cover classification** using satellite imagery  
 
----
 
-## 📊 GitHub Overview
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hectoralfa&layout=compact"/>
-</p>
-
----
 
 ## 🤝 Contact & Collaboration
 
